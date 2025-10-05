@@ -13,3 +13,19 @@ This project provides an end-to-end HR Analytics solution using SQL for data ana
 - Monitor employee tenure and retention trends.
 
 - Build an interactive dashboard for HR decision-making.
+
+## Problem Statement
+
+Employee attrition increases hiring costs, reduces productivity, and affects organizational performance. Without proper analytics, HR teams struggle to detect root causes of turnover and design effective retention strategies.
+
+## Business Impact
+
+- **Retention Strategy** → Identify high-risk employee groups and address pain points.
+
+- **Cost Reduction** → Reduce recruitment & training costs.
+
+- **Workforce Planning** → Allocate HR resources effectively.
+
+- **Employee Engagement** → Monitor job satisfaction to design engagement programs.
+
+- **Data-Driven HR** → Enable leadership to act quickly with insights.
