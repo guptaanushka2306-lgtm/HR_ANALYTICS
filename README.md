@@ -1,6 +1,6 @@
 # HR Analytics Dashboard
 ## Project Overview
-This project provides an end-to-end HR Analytics solution using SQL for data analysis and Power BI for visualization.The objective is to analyze workforce demographics, attrition patterns, job satisfaction, and salary distribution to help HR leaders make data-driven decisions.
+This project provides an end-to-end HR Analytics solution using postgre SQL for data analysis and Power BI for visualization.The objective is to analyze workforce demographics, attrition patterns, job satisfaction, and salary distribution to help HR leaders make data-driven decisions.
 
 ## Objectives
 
@@ -44,9 +44,11 @@ Employee attrition increases hiring costs, reduces productivity, and affects org
 
 # Tools & Technologies
 
-- **SQL** – Data extraction and analysis
+- **Database**: PostgreSQL
 
-- **Power BI** – Dashboard design & visualization
+- **Visualization Tool**: Power BI
+
+- **Data Cleaning & Analysis**: SQL Queries (CTE, Joins, Aggregations, Window Functions)
 
 - **DAX** – KPI calculations
 
