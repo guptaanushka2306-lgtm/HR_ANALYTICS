@@ -70,4 +70,7 @@ Employee attrition increases hiring costs, reduces productivity, and affects org
 ## Project Workflow
 
 - **Database Setup** → Created hr_analytics_db and imported employee data.
-- 
+  <a hrfe = "https://github.com/guptaanushka2306-lgtm/HR_ANALYTICS/blob/main/SQL/01_create_tables.sql" >file</a>
+- **Data Cleaning** → Remove duplicates, nulls, and inconsistent values.
+    Handle Empty String - Null, Trim Extra Spaces
+  
