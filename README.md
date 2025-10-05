@@ -29,3 +29,37 @@ Employee attrition increases hiring costs, reduces productivity, and affects org
 - **Employee Engagement** → Monitor job satisfaction to design engagement programs.
 
 - **Data-Driven HR** → Enable leadership to act quickly with insights.
+
+## Data Source
+
+- **Dataset**: HR Analytics dataset (CSV/Excel format).
+
+- **Fields**: Employee ID, Age, Gender, Department, Job Role, Education Field, Years at Company, Salary, Job Satisfaction, Attrition Status.
+
+- **Source**: Open-source HR dataset (e.g., Kaggle HR Analytics Dataset).
+
+- **Processing**: Cleaned using SQL & Power Query, visualized with Power BI.
+
+## Dataset
+
+# Tools & Technologies
+
+- **SQL** – Data extraction and analysis
+
+- **Power BI** – Dashboard design & visualization
+
+- **DAX** – KPI calculations
+
+## Key Performance Indicators (KPIs)
+
+- Total Employees
+
+- Attrition Count & Attrition Rate (%)
+
+- Average Age, Average Salary, Average Tenure
+
+- Job Satisfaction Score by Role
+
+- Gender Diversity Ratio
+
+- Attrition by Department / Education Field
