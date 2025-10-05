@@ -41,6 +41,7 @@ Employee attrition increases hiring costs, reduces productivity, and affects org
 - **Processing**: Cleaned using SQL & Power Query, visualized with Power BI.
 
 ## Dataset
+<a href = "https://github.com/guptaanushka2306-lgtm/HR_ANALYTICS/blob/main/HR_Analytics.csv" >Dataset</a>
 
 # Tools & Technologies
 
@@ -65,3 +66,8 @@ Employee attrition increases hiring costs, reduces productivity, and affects org
 - Gender Diversity Ratio
 
 - Attrition by Department / Education Field
+
+## Project Workflow
+
+- **Database Setup** → Created hr_analytics_db and imported employee data.
+- 
